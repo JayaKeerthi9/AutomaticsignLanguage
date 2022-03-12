@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <h1>Sign Language Recognition Using OpenCV</h1>
 <h2>Dependencies:</h2>
   <p>1. Tensorflow</p>
@@ -16,9 +16,9 @@
 <p>Run ROIinOpenCV.py</p>
 
 
-![Screenshot 2019-03-31 at 2 35 30 PM](https://user-images.githubusercontent.com/29236532/55287090-3f2a2c00-53c2-11e9-92ac-2b04f391b06d.png)
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/101186430/158018567-c7c23027-a259-48f6-a836-4a497041ecfb.png">
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/101186430/158018572-5fa44fd0-bcb4-4720-a59b-86ee0ada8dfa.png">
 
 
 
-<p>Read the entire process at:</p>
-<link>http://arshad-kazi.com/sign-language-recognition-using-cnn-and-opencv/</link>
+
